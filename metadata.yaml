@@ -1,0 +1,32 @@
+_repo: Memorias-Posthumas-de-Braz-Cubas_54829
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Machado de Assis
+    aliases:
+    - Assis, Joaquim Maria Machado de
+    - De Assis, Machado
+    - Assis, Machado de
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '9685'
+    url: http://www.gutenberg.org/2009/agents/9685
+    wikipedia: http://pt.wikipedia.org/wiki/Machado_de_Assis
+description: ''
+gutenberg_issued: '2017-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54829'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazil -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Rich people -- Fiction'
+- !lcsh 'Dead -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Memorias Posthumas de Braz Cubas
+url: http://www.gutenberg.org/ebooks/54829
